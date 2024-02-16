@@ -125,9 +125,7 @@ int main(void)
       }
       else
       {
-          buffer[2] = 0x00;
-
-
+          buffer[2] = 0x00; // do nothing
       }
 
       while(USBD_HID_SendReport(&hUsbDeviceFS, buffer, 8));
