@@ -30,6 +30,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "C:/Users/85906/CLionProjects/H2OKeyboard/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"
   "C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
   "C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Include"
+  "C:/Users/85906/CLionProjects/H2OKeyboard/UserCode"
   )
 
 # The set of dependency files which are needed:

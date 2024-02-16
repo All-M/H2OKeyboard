@@ -23,7 +23,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "usbd_hid.h"
+#include "Inc.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

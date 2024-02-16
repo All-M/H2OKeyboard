@@ -36,6 +36,7 @@
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"/>
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Device/ST/STM32H7xx/Include"/>
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Include"/>
+					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/UserCode"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -69,6 +70,7 @@
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc"/>
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Device/ST/STM32H7xx/Include"/>
 					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/Drivers/CMSIS/Include"/>
+					<Add directory="C:/Users/85906/CLionProjects/H2OKeyboard/UserCode"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -450,6 +452,9 @@
 			<Option target="H2OKeyboard.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/85906/CLionProjects/H2OKeyboard/USB_DEVICE/Target/usbd_conf.h">
+			<Option target="H2OKeyboard.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/85906/CLionProjects/H2OKeyboard/UserCode/Version.h">
 			<Option target="H2OKeyboard.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/85906/CLionProjects/H2OKeyboard/CMakeLists.txt">
