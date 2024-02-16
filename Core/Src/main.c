@@ -126,6 +126,8 @@ int main(void)
       else
       {
           buffer[2] = 0x00;
+
+
       }
 
       while(USBD_HID_SendReport(&hUsbDeviceFS, buffer, 8));
